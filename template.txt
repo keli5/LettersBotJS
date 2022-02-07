@@ -1,0 +1,13 @@
+module.exports = {
+  name: '',
+  description: '',
+  usage: '',
+  args: true,
+  cooldown: 2,
+  hidden: true,
+  permissions: "BOT_OWNER",
+  async execute (client, message, args) {
+
+
+  }
+}

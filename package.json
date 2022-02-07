@@ -1,0 +1,33 @@
+{
+  "name": "lettersbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "installdeps": "npm i",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "fast.js": "^0.1.1",
+    "ffmpeg-static": "^3.0.0",
+    "fs": "0.0.1-security",
+    "genius-api": "^0.4.1",
+    "jimp": "^0.9.3",
+    "keyv": "^4.0.0",
+    "keyv-file": "^0.1.13",
+    "libsodium-wrappers": "^0.7.6",
+    "markov-strings": "^2.1.0",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.0",
+    "node-opus": "^0.3.3",
+    "node-pre-gyp": "^0.14.0",
+    "pluralize": "^8.0.0",
+    "prism-media": "^1.2.0",
+    "probability-node": "0.0.1",
+    "youtube-api-v3-search": "^1.2.1",
+    "ytdl-core-discord": "^1.1.0"
+  }
+}

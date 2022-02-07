@@ -1,0 +1,9 @@
+{
+  "token": "Insert a bot token here.",
+  "prefix": "d::",
+  "botOwners": ["546707505745494037", "289556910426816513", "556614860931072012"],
+  "botOwner": "556614860931072012",
+  "allowedLearningServers": ["659947229611687986", "671897656003395595"],
+  "currency": "L$",
+  "blacklistedGuilds": ["668975567684763668"]
+}
